@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Muhammad Fadhil</h1>
 <h3 align="center">A passionate Backend Developer From Indonesia</h3>
 
-- 🌱 I’m currently learning **denojs**
+- 🌱 I’m currently learning **IoT**
 
 - 💬 Ask me about **expressjs, oakjs**
 

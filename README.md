@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Muhammad Fadhil</h1>
-<h3 align="center">A passionate Backend Developer From Indonesia</h3>
-
-- 🌱 I’m currently learning **IoT**
-
-- 💬 Ask me about **expressjs, oakjs**
-
-- 📫 How to reach me **syafwah999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
